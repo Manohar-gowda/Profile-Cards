@@ -1,0 +1,44 @@
+{
+  "profiles": [
+    {
+      "id": "502f",
+      "name": "Manohar Gowda",
+      "email": "gowdamanohar45@gmail.com",
+      "gender": "male",
+      "agreeToTerms": false,
+      "country": "India"
+    },
+    {
+      "id": "a68c",
+      "name": "Real King",
+      "email": "kingforsure33@gmailcom",
+      "gender": "male",
+      "agreeToTerms": false,
+      "country": "China"
+    },
+    {
+      "id": "98fc",
+      "name": "Samay Raina",
+      "email": "rainafull3458@gmailcom",
+      "gender": "male",
+      "agreeToTerms": false,
+      "country": "Japan"
+    },
+    {
+      "id": "3hjc",
+      "name": "Stalin",
+      "email": "stalin9800@gmailcom",
+      "gender": "male",
+      "agreeToTerms": false,
+      "country": "UK"
+    },
+    {
+      "id": "87ui",
+      "name": "Modzi Gyatt",
+      "email": "gyattemore1020@gmailcom",
+      "gender": "Female",
+      "agreeToTerms": false,
+      "country": "Ukrain"
+    }
+  ]
+}
