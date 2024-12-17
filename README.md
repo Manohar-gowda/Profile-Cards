@@ -20,8 +20,8 @@
    mvn clean install
 
 4. Open Backend with intellij IDE for better interface and ease 
-  Run the Application which has class with annotation @SpringBootApplication
-  Run the Application via IntelliJ
+  ** - Run the Application which has class with annotation @SpringBootApplication
+  ** - Run the Application via IntelliJ
    
 #By then  applicayion is served at port 5173 
 folllow the link 
