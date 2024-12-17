@@ -1,1 +1,27 @@
 # Profile-Cards
+
+# React + Vite
+*Because it contains database and large data i cannot host backend on any platform for free so no "Live Demo"
+- # Vite React Project with Spring Boot and MySQL database
+
+## How to Run the Project
+* Use npm install after cloning the repository to ensure dependencies are installed.
+
+1. Install dependencies:
+   ```bash
+   npm install
+
+2. Start the development server:
+   ```bash
+   npm run dev
+
+3. Open Backend with intellij IDE for better interface and ease 
+   ```
+   mvn clean install
+   
+#By then  applicayion is served at port 5173 
+folllow the link 
+   ```
+   http://localhost:5173
+   
+   
